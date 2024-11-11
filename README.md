@@ -26,11 +26,11 @@ This project is a Go-based tool for simulating high levels of web traffic to tes
    ```
 2. Navigate to the project directory:
    ```bash
-     cd web-traffic-simulation
+   cd web-traffic-simulation
    ```
 3. Build the Go program (optional, since go run can be used directly):
    ```bash
-      go build script.go
+   go build script.go
    ```
 ## Usage
 1. To run the web traffic simulation tool, follow these steps:

@@ -50,7 +50,7 @@ This project is a Go-based tool for simulating high levels of web traffic to tes
       3. Average response time, 90th and 99th percentiles.
       4. Status code distribution.
 
-## Exaple Output
+## Example Output
 ```bash
 Enter the URL to test: https://example.com
 Enter the total number of requests to send: 1000
